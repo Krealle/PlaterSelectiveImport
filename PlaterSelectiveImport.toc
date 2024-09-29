@@ -1,0 +1,16 @@
+## Interface: 110002
+
+## Title: Plater Selective Import
+## Author: Vollmer
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## X-License: MIT
+## X-Curse-Project-ID: 
+## X-Wago-ID: 
+
+## Dependencies: Plater
+
+## Notes: No need to import all of a profile's data, just the bits you need.
+
+Constants.lua
+PlaterSelectiveImport.lua
